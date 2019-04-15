@@ -1,0 +1,6 @@
+Variables:
+
+featName - reading the data
+subTrain, actTrain, featTrain - reading the training data table
+subTest, actTest, featTest - Reading the test data table
+mergeData - Merging the data
